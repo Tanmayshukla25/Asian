@@ -12,6 +12,9 @@
     .background{
         height: unset;
     }
+    .sep {
+        text-align: center;
+    }
     .color{
         height: unset;
     }
@@ -35,6 +38,16 @@
         width: unset;
         height: unset;
     }
+    .friday {
+       
+        margin-left: 0px;
+        
+    }
+    .fridays {
+       
+        margin-left: 0px;
+        
+    }
     
     .finds {
         position: relative;
@@ -46,6 +59,7 @@
         position: relative;
         width: unset;
         height: unset;
+        margin-top: 6px;
     }
     .ready {
         background-color: rgba(128, 128, 128, 0.152);
@@ -55,8 +69,9 @@
     }
     .finds {
         position: relative;
-        width: 300px;
+        width: unset;
         height: 331px;
+        margin-top: 6px;
     }
     .igins{
         margin-top: unset !important;
@@ -72,10 +87,18 @@
     .white{
         padding-bottom: 25px;
     }
+    .mybody {
+        padding-bottom: 50px;
+        padding-left: 39px;
+    }
 }
 @media screen and (min-width:740px) and (max-width:780px){
     .find{
         width: 300px;
+    }
+    .mybody {
+        padding-bottom: 50px;
+        padding-left: 39px;
     }
     
 }
@@ -83,6 +106,21 @@
     .speed {
         width: unset !important;
         margin-top: 4rem;
+    }
+    .mybody {
+        padding-bottom: 50px;
+        padding-left: 69px;
+    }
+    
+    .friday {
+       
+        margin-left: 0px;
+        
+    }
+    .fridays {
+       
+        margin-left: 0px;
+        
     }
     .world {
         /* text-align: center; */

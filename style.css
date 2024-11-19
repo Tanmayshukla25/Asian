@@ -1,0 +1,698 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-item a{
+    color: white !important;
+    font-size: 20px;
+   
+}
+
+.nav-item{
+    padding: 0px 20px;
+}
+.Asian{
+    color: red;
+}
+.web{
+    padding: 0px 20px 0px 20px;
+    border-radius: 10px;
+    color: white !important;
+    background-color: red;
+
+} 
+.web i{
+    color: white;
+    padding-right: 6px;
+}
+.d-flex input{
+       padding: 7px 400px 7px 10px ;
+       position: relative;
+       border-radius: 10px;
+}
+.myimage{
+    width: 90px;
+    height: 90px;
+}
+.myimage img{
+    width: 100%;
+    height: 100%;
+}
+
+.web{
+   
+    color: red;
+}
+.book{}
+.sports{
+    background-color: rgb(0, 0, 0);
+    padding: 10px 30px;
+}
+/* .boot{
+    padding-left: 100px;
+} */
+.boot h4{
+    color: white;
+ 
+}
+
+.background{
+    background-image: url("./images/WhatsApp\ Image\ 2024-04-24\ at\ 18.17.23_cd85c3ea.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height:1000px;
+}
+.foot{
+    text-align: center;
+}
+.out{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 2px 7px;
+    margin: 0 8px;
+    font-size: 20px;
+    color: white;
+}
+
+
+.Search{
+    position: absolute;
+   right: 130px;
+   bottom: 20px;
+}
+.body {
+    color: red;
+    font-size: 40px;
+   
+
+}
+.file{
+    padding: 5px 15px;
+    border-radius: 30px;
+    border: 1px solid w;
+}
+.baar{
+    
+    color: white;
+}
+.heading{
+  
+    color: red;
+}
+.speeds {
+    padding: 5rem 0;
+    background-color: #00000085;
+    border-radius: 10px;
+}
+.speed {
+    width: 40%;
+    margin-top: 4rem;
+}
+.color{
+    width: ;
+}
+
+.speeds h1{
+    padding: 20px;
+            color: white;
+}
+.speeds h4{
+   margin-left: 20px;
+    color: white;
+}
+.switch {
+    margin-left: 20px;
+    border: solid white;
+    font-size: 10px;
+    font-weight: bold;
+    border-radius: 40px;
+    color: red;
+    padding: 5px 15px;
+}
+.about{
+    color: white;
+}
+.parents{
+ padding: 20px;
+    background-color: black;
+}
+.view h5{
+    color: red;
+}
+.view p{
+  text-align: justify;
+    color: white;
+
+}
+.ready{
+    background-color: rgba(128, 128, 128, 0.152);
+    padding: 10px 30px 50px 30px;
+    margin-top: 50px;
+}
+.paytm{
+    border-radius: 10px;
+    border:2px solid white;
+    width:270px;
+    height: 400px;
+}
+.paytm img{
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
+}
+.line hr{
+    
+    width: 100px;
+    height: 5px;
+    border-radius: 10px;
+    color:white;
+    font-size: 200px;
+}
+
+.star p{
+    text-align: center;
+    color: white;
+    padding: 10px;
+    background-color: red;
+}
+.color{
+    background-image: url("./images/background\ img.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: auto;
+    height:380px;
+}
+.clubs{
+    width: 60px;
+    height: 60px;
+   
+}
+.club h6{
+    font-size: 13px;
+    color: white;
+    padding-top: 20px;
+}
+.wc p{
+           color: lightblue !important;
+          text-align: center;
+          margin-bottom: 0px;
+}
+.cube p{
+    font-size: 15px;
+    color: white !important;
+}
+
+.clubs img{
+    width: 100%;
+    height: 100%;
+}
+.lead{
+    width: 50px;
+    text-align: center;
+    color: white;
+    background-color: red;
+    padding: 10px 5px ;
+  
+}
+.send{
+   
+    text-align: center;
+    color: white;
+    background-color: red;
+    /* padding: 0px 5px ;
+    margin-left: 10px; */
+  
+}
+.facebook h3{
+    padding-left: 10px;
+    font-weight: bold;
+}
+.facebook h2{
+  font-weight: bold;
+}
+.ignis{
+    padding-top: 70px;
+    margin-top: 58px;
+}
+.friday{
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.253);
+  
+    margin-left: 70px;
+    padding: 7px 0;
+}
+.fridays{
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.136);
+   
+    margin-left: 70px;
+    padding: 7px 0;
+    
+}
+.sep{
+    text-align: right;
+    
+}
+.sept{
+    text-align: left;
+    margin-right: 30px;
+}
+.media h2{
+    font-weight: bold;
+}
+.teenu{
+    margin-top: 5px;
+}
+.Media li{
+    margin-top: 9px;
+   
+}
+.Media a{
+   color: red;
+   
+}
+
+.Media1 a{
+ text-decoration: none;
+ color: black;
+
+}
+.Media1 h6{
+    font-weight: bold;
+    font-size: 19   px;
+}
+
+.Media1 li{
+    margin-top: 9px;
+}
+.stack{
+    position: relative;
+    width: 300px;
+    height: 355px;
+}
+.stacks{
+    position: relative;
+    width: 300px;
+    height: 719px;
+}
+.harry{
+    position: relative;
+    width: 300px;
+    height: 331px;
+}
+.harry img{
+    width: 100%;
+    height: 100%;
+}
+.finds{
+    position: relative;
+    width: 283px;
+    height: 331px;
+}
+.finds img{
+    width: 100%;
+    height: 100%;
+}
+.find{
+    position: relative;
+    width: 592px;
+    height: 380px;
+}
+.find img{
+    width: 100%;
+    height: 100%;
+}
+.stacks img{
+    width: 100%;
+    height: 100%;
+}
+.icon{
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    font-size: 25px;
+    padding: 5px 10px;
+    color: white;
+    background-color: red;
+}
+.footer h2{
+    font-weight: bold;
+    padding: 20px 0;
+}
+.pulsar{
+    margin-top: 8px;
+}
+.stack img{
+    width: 100%;
+    height: 100%;
+}
+.play{
+    padding: 70px 0 40px 0;
+    margin-top: 80px;
+    border: 1px solid black;
+}
+.pool{
+    object-fit:cover ;
+
+   position: relative;
+      width: 250px;
+      height: 430px;
+}
+.pool img{
+    width: 100%;
+    height: 100%;
+}
+.brown{
+    border-color: rgba(0, 0, 0, 0.575);
+}
+.tvs{
+    background-image: url("./images/background\ img.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    padding-bottom: 1px;
+   
+}
+.index{
+    background-color: #000000b2;
+        padding-bottom: 80px;
+}
+.whats{ 
+    background-color: #000000b2;
+}
+.static{
+    padding-top:30px ;
+}
+.static p {
+    margin-top:10px ;
+}
+.statics h2{
+    padding-top: 30px;
+
+} 
+.avior a{
+    color: red;
+    font-weight: bold;
+}
+.circle  h3{
+    background-color: rgba(0, 0, 0, 0.932);
+    color: red;
+    transform: rotate(270deg);
+    position: absolute;
+    top: 190px;
+     left: 10px;
+     width: 430px;
+   text-align: center;
+   height: 50px;
+  
+}
+.fancy{
+    padding: 20px 0;
+}
+.time{
+    background-image: url("./images/players\ background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height:580px;
+}
+.avior ul{
+    padding: 0px 0px !important;
+}
+.forward{
+    padding-bottom: 20px;
+    color: white;
+    padding-top: 80px;
+
+}
+.stats ul{
+    padding: 0px 0px !important;
+}
+
+.stats a{
+    text-align: left;
+    text-decoration: none;
+  color: white;
+}
+.profiles2  button {
+    border-radius: 19px;
+    border: 1px solid red;
+    padding: 9px 15px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    background-color: red;
+}
+.profiles p{
+    font-size: 10px;
+}
+.profiles h4{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+}
+.profiles1 h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: red;
+}
+.profile{
+    width: 340px;
+    height: 580px;
+}
+.profile img{
+    width: 100%;
+    height: 100%;
+}
+.amazon{
+    padding-top: 120px;
+}
+.white{
+    background-color: rgba(255, 255, 255, 0.484);
+}
+.apples{
+    margin-top: 23px;
+    background-color: red;
+    padding-top: 10px;
+}
+.sends{
+    font-weight: bold;
+    color: white;
+}
+.blue{
+    text-align: left;
+    font-weight: bold;
+    color: white;
+}
+.push{
+    background-color: black;
+    height: 1px;
+}
+.moon{
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+    text-align: center;
+}
+.moons{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+.card-title{
+    text-align: left;
+}
+.card-titles{
+    text-align: right;
+}
+.phone{
+    padding-top: 10px;
+    background-color: white;
+}
+.card{
+    padding-bottom: 50px;
+}
+.nick{
+    width: 100%;
+    height: 350px;
+    border: 1px solid black;
+    
+}
+.check .container-fluid{
+    background-color: black;
+}
+.instagram{
+    color: red;
+}
+.bobber h4{
+   color: white;
+   text-align: center;
+   padding: 30px 0;
+}
+.nick img{
+    width: 100%;
+    height: 100%;
+}
+.mybody{
+    padding-bottom: 50px;
+}
+.shop h4{
+    padding-bottom: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.follows{
+    width: 218px;
+    height: 200px;
+}
+.follows img{
+  width: 100%;
+  height: 100%;
+}
+.Them{
+    background-image: url("./images/shukla.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height:580px;
+    margin-bottom: 20px;
+    
+}
+.indian{
+  height: 580px;
+    background-color: rgba(0, 0, 0, 0.684);
+  
+
+}
+.world{
+    text-align: center;
+    color:red;
+}
+.worlds1{
+   
+    text-align: center;
+    color: red;
+}
+.blood button{  
+    color: red;
+    padding: 6px 30px ;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 25px;
+    background-color: white;
+}
+.blood1 h4{
+    color: white;
+    text-align: center;
+   
+}
+.blood{
+
+    text-align: center;
+}
+.paytm3{
+  padding-top: 10%;    
+}
+.heading{
+   
+    text-align: center;
+    color: white;
+   
+}
+.winner{
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+}
+.winners{
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 100%;
+    height: 50px;
+}
+.putty{
+    padding-top: 17px;
+}
+.looking h5{
+    color: white;
+         margin-bottom: 0;
+}
+.backs {
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 18px;
+    color: red;
+}
+.looks1 h6{
+    color: white;
+         margin-bottom: 0;
+}
+.looks1 h6 {
+    margin-left: 74px;
+    font-size: 10px;
+}
+.look h5{
+    color: white;
+         margin-bottom: 0;
+}
+.look h2{
+    color: white;
+         margin-bottom: 0;
+}
+.looks h6{
+    color: white;
+         margin-bottom: 0;
+}
+.looks {
+    margin-left: 74px;
+}
+.back{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 31px;
+    color: red;
+}
+
+.section7-box li{
+    color: white;
+}
+.section7-box1 li{
+    color: white;
+    padding-top: 5px;
+   
+}
+.power a{
+    color: red;
+}
+.section7-box1 ul{
+    padding-top:50px ;
+   
+}
+
+.under{
+    padding-top: 100px;
+    background-color: black;
+}
+.winner img{
+    width: 100%;
+    height: 100%;
+}
+.winners img{
+    width: 100%;
+    height: 100%;
+}
+.para p{
+    padding-top: 50px;
+    color: white;
+}
+.wtp{
+    padding-right: 10px;
+}

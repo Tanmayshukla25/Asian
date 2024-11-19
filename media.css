@@ -1,0 +1,151 @@
+@media screen and (min-width:320px) and (max-width:570px){
+    .speed {
+        width: unset !important;
+        margin-top: 4rem;
+    }
+    .world {
+        /* text-align: center; */
+        /* margin-right: 300px; */
+        padding-top: 8rem;
+        color: red;
+    }
+    .background{
+        height: unset;
+    }
+    .color{
+        height: unset;
+    }
+    .worlds1 {
+        /* margin-left: 250px; */
+        text-align: center;
+        color: red;
+    }
+    .find {
+        position: relative;
+        width: unset;
+        height: unset;
+        padding-top: 6px;
+    }
+    .stack {
+        position: relative;
+        width: unset;
+        height: unset;
+    }
+    .harry{
+        width: unset;
+        height: unset;
+    }
+    
+    .finds {
+        position: relative;
+        width: 211px !important;
+        height: 331px;
+    }
+
+    .stacks {
+        position: relative;
+        width: unset;
+        height: unset;
+    }
+    .ready {
+        background-color: rgba(128, 128, 128, 0.152);
+        /* padding: 10px 30px 50px 30px; */
+        margin-top: 50px;
+        
+    }
+    .finds {
+        position: relative;
+        width: 300px;
+        height: 331px;
+    }
+    .igins{
+        margin-top: unset !important;
+        padding-top: unset !important;
+    }
+    .profile{
+        width: unset;
+        height: unset;
+    }
+    .amazon{
+        padding-top: 0;
+    }
+    .white{
+        padding-bottom: 25px;
+    }
+}
+@media screen and (min-width:740px) and (max-width:780px){
+    .find{
+        width: 300px;
+    }
+    
+}
+@media screen and (min-width:570px) and (max-width:780px){
+    .speed {
+        width: unset !important;
+        margin-top: 4rem;
+    }
+    .world {
+        /* text-align: center; */
+        /* margin-right: 300px; */
+        padding-top: 8rem;
+        color: red;
+    }
+    .background{
+        height: unset;
+    }
+    .color{
+        height: unset;
+    }
+    .worlds1 {
+        /* margin-left: 250px; */
+        text-align: center;
+        color: red;
+    }
+    .find {
+        position: relative;
+       
+        padding-top: 6px;
+    }
+
+  .stack {
+        position: relative;   
+ 
+    }
+    
+    .finds {
+        position: relative;
+        width: 300px !important;
+        height: 331px;
+    }
+
+    .stacks {
+        position: relative;
+        width: unset;
+        height: unset;
+    }
+    .ready {
+        background-color: rgba(128, 128, 128, 0.152);
+        /* padding: 10px 30px 50px 30px; */
+        margin-top: 50px;
+        
+    }
+    .finds {
+        position: relative;
+        width: 300px;
+        height: 331px;
+    }
+    .igins{
+        margin-top: unset !important;
+        padding-top: unset !important;
+    }
+    .profile{
+        width: unset;
+        height: unset;
+    }
+    .amazon{
+        padding-top: 0;
+    }
+    .white{
+        padding-bottom: 25px;
+    }
+}

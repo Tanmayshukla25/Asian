@@ -73,6 +73,10 @@
         height: 331px;
         margin-top: 6px;
     }
+    .time {
+    
+        height: 699px;
+    }
     .igins{
         margin-top: unset !important;
         padding-top: unset !important;
@@ -85,7 +89,7 @@
         padding-top: 0;
     }
     .white{
-        padding-bottom: 25px;
+        padding-bottom: 5px;
     }
     .mybody {
         padding-bottom: 50px;
@@ -110,12 +114,30 @@
         padding-bottom: 0px;
     }
     .pool {
-        margin-left: 25px;
+        margin-left: 77px;
     }
     .winner {
     
         width: 70%;
         height: 95%;
+    }
+}
+@media screen and (min-width:425px) and (max-width:450px){
+    .clubs {
+        margin-left: 105px;
+    }
+    .lead {
+        margin-left: 105px;
+    }
+    .paytm {
+     
+        margin-left: 46px;
+    }
+    .stores {
+        margin-left: 56px;
+    }
+    .mybody {
+        margin-left: 57px;
     }
 }
 @media screen and (min-width:740px) and (max-width:780px){

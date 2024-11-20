@@ -91,6 +91,32 @@
         padding-bottom: 50px;
         padding-left: 39px;
     }
+    .ignis {
+        padding-top: 25px;
+        margin-top: 0;
+        text-align: center;
+    }
+    .clubs {
+        margin-left: 52px;
+    }
+    .lead {
+        margin-left: 52px;
+    }
+    .whats{ 
+       
+        padding-bottom: 26px;
+    }
+    .color{
+        padding-bottom: 0px;
+    }
+    .pool {
+        margin-left: 25px;
+    }
+    .winner {
+    
+        width: 70%;
+        height: 95%;
+    }
 }
 @media screen and (min-width:740px) and (max-width:780px){
     .find{
@@ -106,6 +132,14 @@
     .speed {
         width: unset !important;
         margin-top: 4rem;
+    }
+    .time {
+        height: 418px;
+    }
+    .color {
+    
+        width: 157%;
+      
     }
     .mybody {
         padding-bottom: 50px;
